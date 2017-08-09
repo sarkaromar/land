@@ -1,0 +1,79 @@
+<div class="bottom_footer">
+                <div class="container">
+                    <div class="text">
+                        <p>Copyright &copy; 2015 Real Estate Theme Designed by | <a href="http://themeforest.net/user/steelthemes/portfolio" class="tran3s" target="_blank">SteelThemes</a> Developed by | <a href="http://themeforest.net/user/template_path/portfolio" class="tran3s" target="_blank">Template Path</a> </p>
+                    </div> <!-- End .text -->
+
+                    <div class="footer_nav">
+                        <ul>
+                            <li><a href="" class="tran3s">Home</a></li>
+                            <li><a href="" class="tran3s">Properties</a></li>
+                            <li><a href="" class="tran3s">Agents</a></li>
+                            <li><a href="" class="tran3s">Buy This Theme</a></li>
+                        </ul>
+                    </div> <!-- End .footer_nav -->
+                </div>
+            </div> <!-- End .bottom_footer -->
+
+
+
+
+<!-- Testimonial Two _______________________________ -->
+
+<div class="testimonial_two">
+    <div class="container">
+        <div class="main-title-center">
+            <h2>Client Testimonials</h2>
+        </div> <!-- End .main-title-center -->
+        <div class="client_speach">
+            <div id="client-slider" class="">
+                <div class="item">
+                    <div class="img_holder">
+                        <img src="simages/home2/13.jpg" alt="client">
+                        <div class="client_name">
+                            <h5>Mr.George Anto</h5>
+                            <span>Client From 2014 Dec 25</span>
+                        </div> <!-- End .client_name -->
+                        <div class="clear_fix"></div>
+                    </div>
+                    <div class="speach">
+                        <p>Long established fact that a reader will be undo ut  distracted by the readable sed content off a page when seds looking und at its layouts The sesd points using Lorem  Ipsum is that it has a more-or-less than normal distributionof letter james opposed using content here content here will be making look like readable property developers will be ut distracted by the readable real estate.</p>
+                    </div> <!-- End .speach -->
+                    <div class="clear_fix"></div>
+                </div> <!-- End .item -->
+
+                <div class="item">
+                    <div class="img_holder">
+                        <img src="<?=base_url()?>assets/images/home2/13.jpg" alt="client">
+                        <div class="client_name">
+                            <h5>Mr.George Anto</h5>
+                            <span>Client From 2014 Dec 25</span>
+                        </div> <!-- End .client_name -->
+                        <div class="clear_fix"></div>
+                    </div>
+                    <div class="speach">
+                        <p>Long established fact that a reader will be undo ut  distracted by the readable sed content off a page when seds looking und at its layouts The sesd points using Lorem  Ipsum is that it has a more-or-less than normal distributionof letter james opposed using content here content here will be making look like readable property developers will be ut distracted by the readable real estate.</p>
+                    </div> <!-- End .speach -->
+                    <div class="clear_fix"></div>
+                </div> <!-- End .item -->
+
+                <div class="item">
+                    <div class="img_holder">
+                        <img src="<?=base_url()?>assets/images/home2/13.jpg" alt="client">
+                        <div class="client_name">
+                            <h5>Mr.George Anto</h5>
+                            <span>Client From 2014 Dec 25</span>
+                        </div> <!-- End .client_name -->
+                        <div class="clear_fix"></div>
+                    </div>
+                    <div class="speach">
+                        <p>Long established fact that a reader will be undo ut  distracted by the readable sed content off a page when seds looking und at its layouts The sesd points using Lorem  Ipsum is that it has a more-or-less than normal distributionof letter james opposed using content here content here will be making look like readable property developers will be ut distracted by the readable real estate.</p>
+                    </div> <!-- End .speach -->
+                    <div class="clear_fix"></div>
+                </div> <!-- End .item -->
+            </div> <!-- End #client-slider -->
+        </div> <!-- End .client_speach -->
+    </div> <!-- End .container -->
+</div> <!-- End .testimonial -->
+
+<!-- End Testimonial Two____________________________ -->

@@ -1,0 +1,24 @@
+<!-- Find Home Table -->
+        <section class="container">
+            <div class="find_home">
+                <div class="table_content">
+                    <h3 class="table_title" style="margin-top: 0px">
+                        <i class="fa fa-home"></i>
+                        Please Select a Area For Find Your Dream Place
+                    </h3>
+                    <?=form_open(site_url("land_for_development/search"))?>
+                        <div class="space_fix single_form" style="width: 80%">
+                            <select class="selectmenu" name="area_name">
+                                <option selected="selected">Choose a Area</option>
+                                <?php foreach($areas as $area) : ?>
+                                    <option value="<?=$area->area?>"><?=$area->area?></option>
+                                <?php endforeach; ?>
+                            </select>
+                        </div>
+                        <div class="single_form" style="vertical-align:top;">
+                            <button type="submit" class="search"> Search</button>
+                        </div> <!-- End .single_form -->
+                    <?=form_close()?>
+                </div> <!-- End .table_content -->
+            </div> <!-- End .find_home -->
+        </section>

@@ -1,0 +1,16 @@
+<div class="single_form space_fix">
+                                    <input type="text" placeholder="Property name">
+                                </div> <!-- End .single_form -->
+
+                                <div class="single_form">
+                                    <input type="text" placeholder="User Name">
+                                </div> <!-- End .single_form -->
+
+                                <div class="single_form space_fix">
+                                    <input type="email" placeholder="Email Address">
+                                </div> <!-- End .single_form -->
+
+                                <div class="single_form">
+                                    <input type="password" placeholder="Password">
+                                </div> <!-- End .single_form -->
+                                <button class="tran3s">Login Now</button> 
